@@ -1,6 +1,8 @@
 # Seoul-Bike-Sharing-Demand
 ![image](https://github.com/Kmohamedalie/Seoul-Bike-Sharing-Demand/assets/63104472/fd6c4f6e-3bcd-42a2-8787-1aa92cbf7d70)
 
+
+**Task:** Regression Count of bikes rented at each hour(Rent Bike Count)<br>
 **Notebook:** [Link]()
 **Dataset:** [UCI Machine Learning](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand)
 
