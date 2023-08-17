@@ -1,20 +1,24 @@
-# Seoul-Bike-Sharing-Demand
+# Seoul Bike Sharing Demand - Multiple Linear Regression
 ![image](https://github.com/Kmohamedalie/Seoul-Bike-Sharing-Demand/assets/63104472/fd6c4f6e-3bcd-42a2-8787-1aa92cbf7d70)
 
 
 **Task:** Predicting Count of bikes rented at each hour(Rent Bike Count)<br>
-**Notebook:** [Link](https://github.com/Kmohamedalie/Seoul-Bike-Sharing-Demand/blob/master/Seoul%2Bbike%2Bsharing%2Bdemand/Seoul%20Bike%20sharing-%20Regression%20(SKLearn)%20.ipynb)
+
+
 **Dataset:** [UCI Machine Learning](https://archive.ics.uci.edu/dataset/560/seoul+bike+sharing+demand)
 
+**Notebook:** [Link](https://github.com/Kmohamedalie/Seoul-Bike-Sharing-Demand/blob/master/Seoul%2Bbike%2Bsharing%2Bdemand/Seoul%20Bike%20sharing-%20Regression%20(SKLearn)%20.ipynb) <br>
 
-### Additional Information
+
+
+### **Additional Information about the dataset**
 
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes. 
 The dataset contains weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), the number of bikes rented per hour and date information. 
 
 
 
-### Additional Information
+### **Attribute information**
 
 Date : year-month-day <br>
 Rented Bike count - Count of bikes rented at each hour <br>
