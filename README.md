@@ -10,6 +10,13 @@ https://github.com/Kmohamedalie/Seoul-Bike-Sharing-Demand_Regression/assets/6310
 
 
 
+
+
+
+**Source:** [Arirand](https://www.youtube.com/watch?v=zod2Nawmlwk)
+
+
+
 </div>
 
 **Task:** Predicting Count of bikes rented at each hour(Rent Bike Count)<br>
@@ -27,6 +34,9 @@ https://github.com/Kmohamedalie/Seoul-Bike-Sharing-Demand_Regression/assets/6310
 |------------------ |-----------|---------------|------------|-----------|
 | Linear Regression | 318.88402 |	178535.387537 |	422.534481 |	0.560321 |
 
+
+
+<br>
 
 
 ### **Additional Information about the dataset**
